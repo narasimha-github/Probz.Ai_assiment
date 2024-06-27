@@ -1,0 +1,11 @@
+.notNotFound {
+  display: flex;
+  height: 85vh;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.img {
+  height: 40vh;
+}
